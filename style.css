@@ -1,0 +1,51 @@
+html body{
+    width: auto;
+    background-color: darkgray;
+}
+.container{
+    border: 8px;
+    padding: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 150px;
+    width: 1000px;
+    height: 350px;
+    background-color: white;
+}
+.img{
+    width: 38%;
+    float: right;
+    height: 100%;
+    margin-top: -255px;
+}
+.name{
+    margin-top: 40px;
+    text-align: center;
+}
+.name1{
+    text-align: center;
+}
+.name2{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.qt{
+    margin-right: 460px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 110px;
+    font: 1.8rem arial black;
+}
+.about{
+    text-align: left;
+    margin-left: 300px;
+    margin-right: 300px;
+    font: 1.8rem timesnewroman bolder;
+}
+footer{
+    background: rgb(80, 79, 79);
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+}
