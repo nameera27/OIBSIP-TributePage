@@ -1,5 +1,6 @@
 html body{
     width: auto;
+    height: auto;
     background-color: darkgray;
 }
 .container{
@@ -7,7 +8,7 @@ html body{
     padding: 5px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 150px;
+    margin-left: 240px;
     width: 1000px;
     height: 350px;
     background-color: white;
@@ -26,7 +27,7 @@ html body{
     text-align: center;
 }
 .name2{
-    margin-top: 30px;
+    margin-top: 50px;
     text-align: center;
     margin-bottom: 60px;
 }
@@ -39,8 +40,8 @@ html body{
 }
 .about{
     text-align: left;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 280px;
+    margin-right: 280px;
     font: 1.8rem timesnewroman bolder;
 }
 footer{
